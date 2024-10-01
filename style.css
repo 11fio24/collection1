@@ -1,6 +1,10 @@
 body{
-  background-color:rgb(23, 26, 70)}
-h1{font-size: 30px;
-  
+  background-color:rgb(23, 26, 70);
+  font-family: "Courier New", Courier, monospace;
+}
+h1{font-size: 50px;
   color: rgb(246, 248, 225);}
-p{color:rgb(246, 248, 225);}
+h2{color:rgb(246, 248, 225);
+  font-size: 20px;
+  text-align: right;
+}
